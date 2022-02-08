@@ -1,0 +1,7 @@
+{
+   "name": "Persist Settings",
+   "author": "eternal",
+   "descriptions": "Persists settings that Discord doesn't throughout logouts, reinstalls and other casualties or events.",
+   "version": "1.0.0",
+   "id": "eternal.persist-settings"
+}
